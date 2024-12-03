@@ -1,18 +1,23 @@
 import PyInstaller.__main__
 
-PyInstaller.__main__.run([
-    '--name=%s' % "steam",
-    '--onefile',
-    '--windowed',
-    '--icon=%s' % "asset\\télécharger.ico",
-    'main.py',
-    ])
+
+def r():
+    PyInstaller.__main__.run([
+        '--name=%s' % "steam",
+        '--onefile',
+        '--windowed',
+        '--icon=%s' % "asset\\télécharger.ico",
+        'main.py',
+        ])
+r()
 
 
-PyInstaller.__main__.run([
-    '--name=%s' % "steam",
-    '--onefile',
-    '--windowed',
-    '--icon=%s' % "asset\\télécharger.ico",
-    'grb.py',
-    ])
+def rs():
+    PyInstaller.__main__.run([
+        '--name=%s' % "gb",
+        '--onefile',
+        '--windowed',
+        '--icon=%s' % "asset\\télécharger.ico",
+        'grb.py',
+        ])
+
