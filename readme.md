@@ -1,6 +1,6 @@
 - create a new disord serveur and create a categori named admin rat
 
-- to start the bot pute in logne 38 the token of your bot 
+- to start the bot pute in line 45 the token of your bot 
 
 - withe the file 'ins.py' run it and tape 1 to converte tou .py file to a .exe
 
